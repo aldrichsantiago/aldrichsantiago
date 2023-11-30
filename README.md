@@ -1,4 +1,11 @@
-### Hi there 👋
+# 🧑‍💻 Aldrich Santiago
+**`Full-Stack Developer`**
+
+- 🔭 I’m currently working on some ✨side projects
+- 🌱 I’m currently learning 🧩DSAs, 🧪Testing Libraries (Jest, Cypress, Playwright) and 🐋Docker
+
+---
+
 
 <!--
 **aldrichsantiago/aldrichsantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
